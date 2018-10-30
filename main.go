@@ -2,7 +2,6 @@ package test
 
 import (
     "errors"
-    "fmt"
     "math/rand"
     "time"
 )
