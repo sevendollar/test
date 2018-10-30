@@ -2,6 +2,6 @@ package jef
 
 import "fmt"
 
-func talk() {
+func Talk() {
 	fmt.Println("hello jef.")
 }
